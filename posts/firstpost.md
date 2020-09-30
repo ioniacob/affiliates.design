@@ -1,5 +1,6 @@
 ---
 title: How To Create An Ideal Website For Small Business
+thumbnail: /static/img/logo.png
 date: 2020-09-30T13:05:50.385Z
 author: Ion Iacob
 summary: If you are making your debut in to a small business, you cannot remain
