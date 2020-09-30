@@ -1,5 +1,5 @@
 ---
-name: Dan Urbanowicz
-email: dan.urbanowicz@gmail.com
-github: https://github.com/danurbanowicz
+name: Ion Iacob
+email: admin@affiliates.design
+github: http://affiliates.design/
 ---
